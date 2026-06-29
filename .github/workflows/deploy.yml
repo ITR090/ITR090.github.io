@@ -2,7 +2,7 @@ name: Deploy Next.js site to Pages
 
 on:
   push:
-    branches: ["main"] # Change to "master" if your default branch uses that name
+    branches: ["main"] 
 
 permissions:
   contents: read

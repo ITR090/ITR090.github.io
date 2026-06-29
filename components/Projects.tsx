@@ -19,7 +19,7 @@ const projects = [
   },
   {
     title: 'GCP Serverless',
-    desc: 'A personal portfolio website built with Next.js and Tailwind CSS. It shocases my projects, skills, and contact information.',
+    desc: 'A serverless application deployed on Google Cloud Platform (GCP) using various GCP services. It demonstrates the use of cloud functions, storage, and Firestore for building scalable applications.',
     tech: ['React Vite','Tailwind CSS','Cloud Run','Cloud Build','Cloud Storage','Cloud Run Functions','Cloud Firestore','Cloud IAM'],
     demo: 'https://fullstack-app-afp-69338693715.europe-west1.run.app/',
     code: 'https://github.com/ITR090/GCP-Serverless-Playground'
